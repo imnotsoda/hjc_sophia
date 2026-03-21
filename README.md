@@ -32,3 +32,8 @@ try to default to creation before consumption.
 - write lyrics
 - come up with stories
 - write short stories
+
+----
+me yapping because i havent set up a blog set up yet
+- TIL 03/20/26 that i can preview the rendered .md files on VS code with the command + shift + v command. absolutely awesome ! can't believe i didn't just search it up earlier...
+- i want to buy a computer just to set up a server of my own.. im gonna look into doing that... https://www.reddit.com/r/webhosting/comments/czhc5o/how_do_i_host_a_website/
