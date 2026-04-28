@@ -11,6 +11,7 @@
 | webring | I saw that the Purdue Hackers have a web ring, which is really cool. I want to create something like that with my friends or be added to the PU ring. For that I guess I should start by pulling up to HackNight... | https://ring.purduehackers.com/ | 10/20/25 | --- | ---|
 | shell? | I also liked the shell-like intro version that Sasha Thomas has | https://turtleshell.sh/ | 10/20/25 | --- | ---|
 | idea bank | so that i don't have to keep updating the readme like this all the time LOL | | 03/11/26 | --- | --- |
+| auto formatting to html | i wanted to copy something from my notes app (which was a ordered list), and then i wanted to format it as HTML. when i pasted, it got rid of the formatting & I had to manually type in the `<li>` text `<\li>` which was annoying. i bet i could code smt like that | https://github.com/imnotsoda/rules-of-life | 04/28/26 | -- | -- |
 
 https://imnotsoda.notion.site/26f66952d1ce8031946bcbc711bf0f44?v=26f66952d1ce804d955d000c74f211c1&source=copy_link
 
